@@ -11,21 +11,12 @@ Class config {
         var $driver;
         var $servidor;
 
-		/*
-        Function config () {
-                 
-                 $this->db="softinet_Uniplaces";
-                 $this->login="softinet_sa";
-                 $this->senha="Softin3t";
-                 $this->servidor="mysql.aspnethosting.co.uk";
-        }
-		*/
 		function __construct () {
                  
-                 $this->db="scraping_supply";
-                 $this->login="afonso";
-                 $this->senha="tremoco16.04";
-                 $this->servidor="178.62.109.124";
+                 $this->db="scraping_xxxx";
+                 $this->login="xxxx";
+                 $this->senha="xxxx";
+                 $this->servidor="xxxx";
         }
 
 }
